@@ -1,0 +1,16 @@
+[project]
+name = "comfyui-motioncontactsheet"
+description = "Motion contact sheet node for ComfyUI: grids up to 32x32, auto layout from sample_fps, timestamps pinned to the original clip."
+version = "1.0.0"
+license = { text = "Apache-2.0" }
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/YOUR_USERNAME/ComfyUI-MotionContactSheet"
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "Motion Contact Sheet"
+Icon = ""

@@ -1,0 +1,10 @@
+ComfyUI-MotionContactSheet
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+This project is derived from the Video Motion Contact Sheet node in
+comfyui-svdint4 (Turing Utils), https://github.com/wjie98/comfyui-svdint4,
+Copyright its respective authors, licensed under Apache-2.0.
+
+Changes: standalone node; grid size up to 32x32 and rectangular auto layouts;
+sample_fps auto frame count; timestamps pinned to the original duration
+(original_duration / reference_video); min_cell_width; timestamps output.
